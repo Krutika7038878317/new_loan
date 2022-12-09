@@ -1,0 +1,71 @@
+class StringConstant {
+  static const String loginMsgLabel = 'GMoney Launches Group Buy for it’s 10,000+ Hospitals & Clinics. Save upto 35% More.';
+  static const String loginLabel = 'Login';
+  static const String submitLabel = 'Submit';
+  static const String yesLabel = 'Yes';
+  static const String noLabel = 'No';
+  static const String loginHintLabel = 'Please enter your mobile number';
+  static const String emailLabel = 'Please enter your Email ID';
+  static const String emailLLabel = 'Email ID';
+  static const String mobileNumberLabel = 'Mobile Number';
+  static const String mobileNumberHint = 'Enter Mobile Number';
+  static const String panErrorMsgLabel = 'Enter Valid Pan card number';
+  static const String mobileNumberHhint = 'Mobile Number';
+  static const String otpHintLabel = 'Please enter the OTP sent on your registered mobile number';
+  static const String stringMobileLabel = 'Please enter valid 10 digit mobile number';
+  static const String aadhaarOTPleLabel = 'Please enter valid 12 digit aadhaar number';
+  static const String errorPanLabel = 'Enter Valid Pan card number';
+  static const String stringOtpLabel = 'Please enter valid OTP';
+  static const String mobileLabel = 'Mobile Number';
+  static const String pinErrorMsgLabel = 'Enter Valid Pin code';
+  static const String registrationLabel = 'Registration';
+  static const String completeKYCLabel = 'Complete Your KYC';
+  static const String cardActivationLabel = 'Card Activation';
+  static const String advanceMediclaimLabel = 'Advance Against Mediclaim';
+  static const String insuranceOnEmiLabel = 'Insurance On EMI';
+  static const String healthShowLabel = 'GMoney Health Show';
+  static const String personalDetailsLabel = 'Personal Details';
+  static const String panHintLabel = 'Enter your PAN Number';
+  static const String panLabel = 'PAN Number';
+  static const String nameHintLabel = 'Enter your Name';
+  static const String nameLabel = 'Name';
+  static const String dobHintLabel = 'Date of Birth (DD/MM/YYYY)';
+  static const String dobLabel = 'Date of Birth';
+  static const String genderLabel = 'Gender';
+  static const String finacialLabel = 'Financial Details';
+  static const String salaryHintLabel = 'Enter your Salary';
+  static const String salaryLabel = 'Monthly Salary';
+  static const String amounthintLabel = 'Enter Required Amount';
+  static const String amountLabel = 'Required Amount';
+  static const String pincodeLabel = 'Enter your Pincode';
+  static const String pincodehintLabel = 'Pincode';
+  static const String termcanditionLabel = 'We will send all loan related documents (Sanction letter, KFS, Loan Agreement, Privacy Policy of DLA/LSP) on the email address/mobile number via SMS/Whatsapp.';
+  static const String checkBoxCandition2Label = 'I hereby give my consent to Harvinder Finance Company Private Limited as Lender to collect, store and verify my credit report from Credit Bureaus and KYC Details for processing of my Loan Application. I certify that my Annual Household income is greater than 3 Lakh Rupees.';
+  static const String Iagree1Label = 'I agree to ';
+  static const String iAuthorizedLabel = 'I authorize GMoney Pvt.Ltd to access my Aadhaar no. and help me fetch my details ';
+  static const String Iagree2Label = 'Terms and Conditions';
+  static const String Iagree3Label = 'Privacy Policy';
+  static const String Iagree4Label = '. I authorize GMoney to access my credit report from Credit Bureaus and store it to process my Personal Loan Application.';
+
+  static const String CreateLabel = 'Create mPin';
+  static const String setMpinLabel = 'Set your mPIN to login';
+  static const String enterMpinLabel = 'Enter 4 digit mPIN';
+  static const String reenterMpinLabel = 'Re-enter 4 digit mPIN';
+  static const String createbtnLabel = 'Create';
+  static const String checkBoxLabel = 'Enable fingerprint verification for easy login';
+  static const String mpinErrorLabel = 'Please check mPin';
+  static const String otpErrorLabel = 'OTP did not matched';
+
+  static const String enterpinLabel = 'Enter mPin';
+  static const String enterMpintoLabel = 'Enter your mPin to login';
+  static const String logibtnLabel = 'Login';
+  static const String forgotLabel = 'Forgot mPin?';
+  static const String errorLabel = 'Something went wrong please try after sometime';
+  static const String mpinLabel = 'mPin is incorrect';
+  static const String buyEmiLabel = 'Buy Insurance On EMI';
+  static const String uploadLabel = 'Upload your policy for mediclaim advance approval';
+  static const String banner1Label = 'GMoney card is accepted at 10,000+ health care centers';
+
+  static const String aadhaarOTPpleLabel = 'Please enter valid OTP11';
+
+}
